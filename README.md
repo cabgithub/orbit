@@ -1,4 +1,7 @@
-# orbit  
+# orbit 
+Saturday, January 16, 2016
+- added touch events and reduced boundaries on x plane
+- tested on iPhone 6S Plus Safari 
 Tuesday, January 12, 2016  
 discrete time element controller, periodic function    
 - tested in contemporary desktop versions of Chrome, Edge, Explorer, Safari, and Firefox  
